@@ -28,4 +28,8 @@ You will need to do the following for the project to be correctly set up
 
 - Create your IFTTT Applet with an IF Trigger as Webhook, with the "curve_receipt_management" event name
 
+- Set up a time trigger in Google Apps Script for you script to run every X minutes :
+
+![GoogleScript Trigger](https://i.imgur.com/kVPbV5S.png)
+
 Then you're ready to go and do as you please.
